@@ -9,6 +9,7 @@ body{
 .logo1{
     height: 50px;
     width: 180px;
+    margin-left: 110px;
 }
 .yorumlar{
     border-bottom: 1px solid black;
@@ -16,4 +17,7 @@ body{
 }
 .saveıcon{
     margin-left: 350px;
+}
+.imgcursorel{
+    margin-left: 160px;
 }
