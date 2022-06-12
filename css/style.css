@@ -1,23 +1,30 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-
+/**  ------------------------------------body font family--------------------------------   **/
 .divnav{
     background-color: #FFC017;
     border-bottom: 1px solid black;
 }
+/**  ------------------------------------nav and imgyazı div background color and border--------------------------------   **/
+
 .logo1{
     height: 50px;
     width: 200px;
     margin-left: 110px;
 }
+/**  ------------------------------------nav logo--------------------------------   **/
+
 .yorumlar{
     border-bottom: 1px solid black;
 
 }
+
 .saveıcon{
     margin-left: 350px;
 }
+/**  --------------------------------- bookmark -----------------------------------   **/
+
 .imgcursorel{
     margin-left: 160px;
 }
